@@ -12,12 +12,6 @@ CAGE is a multi-modal image fusion network that achieves content-adaptivity at e
 - **Content-Adaptive Attention Module (CAAM)**: window-level cross-modal attention that activates only where the complementary modality provides genuine informational benefit.
 - **Data-driven Spatial Gradient Loss**: window-level adaptive supervision weights derived from local gradient activity ratios.
 
-
-
-## Citation
-
-*BibTeX entry will be provided upon publication.*
-
 ---
 
 ## Supplementary Material
@@ -86,3 +80,8 @@ Sensitivity experiments on M3FD. The full model uses τ = 0.5 and λ = 10.
 **SPECT-MRI**
 
 ![SPECT-MRI fusion results](supplyment/SPECT-MRI_1.png)
+
+
+## Citation
+
+*BibTeX entry will be provided upon publication.*
